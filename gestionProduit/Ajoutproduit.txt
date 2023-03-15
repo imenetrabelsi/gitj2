@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 Produit5
 Produit6
 Produit7
-=======
 Produit1
 Produit2
->>>>>>> fc2790d2ebaffa4c9f9585f2feea5d59e651f601
+
